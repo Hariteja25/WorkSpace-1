@@ -1,0 +1,20 @@
+
+s	java:S125"<This block of commented-out lines of code should be removed.(•Ñ”ùüÿÿÿÿ8ñšïíø.HÉZRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(²‹ÿ›H€ZRMAJORZ
+CODE_SMELL
+q
+java:S2095"EUse try-with-resources or close this "Session" in a "finally" clause.(´Ï‚‘ùÿÿÿÿHüYRBLOCKERZBUG
+d	java:S106"9Replace this use of System.out or System.err by a logger.(˜äğØHƒZRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(Š‘ÕÑúÿÿÿÿH‚ZRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ØíâHıYRMAJORZ
+CODE_SMELL
+W
+java:S1905"+Remove this unnecessary cast to "Employee".(ìÜÖßHşYRMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(äÅ¬ïHZRMAJORZ
+CODE_SMELL
+r
+java:S2259"AA "NullPointerException" could be thrown; "emp" is nullable here.(Š‘ÕÑúÿÿÿÿ8À’ğø.Hæ[RMAJORZBUG

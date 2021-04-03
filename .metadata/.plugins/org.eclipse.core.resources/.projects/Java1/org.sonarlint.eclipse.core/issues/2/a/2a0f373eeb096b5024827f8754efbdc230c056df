@@ -1,0 +1,16 @@
+
+`
+java:S3740"/Provide the parametrized type for this generic.(ÅŸË·ýÿÿÿÿH—QRMAJORZ
+CODE_SMELL
+[
+java:S3740"/Provide the parametrized type for this generic.(ôÇˆ´H˜QRMAJORZ
+CODE_SMELL
+g	java:S125"<This block of commented-out lines of code should be removed.(á¶Œ…H™QRMAJORZ
+CODE_SMELL
+i
+java:S1197"8Move the array designator from the variable to the type.(•ÃÔÿÿÿÿÿH›QRMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(±”·¼HœQRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(Ïåê¸HQRMAJORZ
+CODE_SMELL

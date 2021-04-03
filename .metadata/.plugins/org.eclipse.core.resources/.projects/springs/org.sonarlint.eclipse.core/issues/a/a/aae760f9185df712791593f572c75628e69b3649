@@ -1,0 +1,33 @@
+
+Š
+java:S1488w"YImmediately return this expression instead of assigning it to the temporary variable "e".(´·¨ŞúÿÿÿÿH˜`RMINORZ
+CODE_SMELL
+[
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½ÒşÿÿÿÿHš`RMINORZ
+CODE_SMELL
+‹
+java:S2293ˆ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÑË¿’ÿÿÿÿÿHŸ`RMINORZ
+CODE_SMELL
+|	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¤›úH–`RMINORZ
+CODE_SMELL
+i
+java:S38784"8Remove this array creation and simply pass the elements.(Êíà«øÿÿÿÿH`RMINORZ
+CODE_SMELL
+i
+java:S3878#"8Remove this array creation and simply pass the elements.(óëğùÿÿÿÿHœ`RMINORZ
+CODE_SMELL
+i
+java:S3878."8Remove this array creation and simply pass the elements.(€ÎçÆûÿÿÿÿH`RMINORZ
+CODE_SMELL
+
+java:S1192Y"KDefine a constant instead of duplicating this literal "SALARYINFO" 4 times.(Ã¯¸şÿÿÿÿH‘`RCRITICALZ
+CODE_SMELL
+‹
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "e".(´·¨ŞúÿÿÿÿH™`RMINORZ
+CODE_SMELL
+
+java:S1128"NRemove this unused import 'org.springframework.jdbc.support.rowset.SqlRowSet'.(‰ğî›øÿÿÿÿH›`RMINORZ
+CODE_SMELL
+
+java:S1488:"^Immediately return this expression instead of assigning it to the temporary variable "salary".(½…¢ıÿÿÿÿH—`RMINORZ
+CODE_SMELL

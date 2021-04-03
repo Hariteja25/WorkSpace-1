@@ -1,0 +1,8 @@
+
+Ö	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê’≈ŒH±SRMINORZ
+CODE_SMELL
+f
+java:S1610":Convert the abstract class "Validation" into an interface.(‹˜¢ÇH≤SRMINORZ
+CODE_SMELL
+g	java:S125"<This block of commented-out lines of code should be removed.(‹˜¢ÇH≥SRMAJORZ
+CODE_SMELL

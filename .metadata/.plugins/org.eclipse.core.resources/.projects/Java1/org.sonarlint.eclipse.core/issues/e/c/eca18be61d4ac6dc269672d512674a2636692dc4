@@ -1,0 +1,7 @@
+
+r
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(²õ¶ùÿÿÿÿHĞURMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(Ï®òÔHÒURMAJORZ
+CODE_SMELL
+k	java:S899"BDo something with the "boolean" value returned by "createNewFile".(Ğ’ÍùÿÿÿÿHÑURMINORZBUG

@@ -1,0 +1,15 @@
+
+M
+java:S1116
+"Remove this empty statement.(“êá±ÿÿÿÿÿH’WRMINORZ
+CODE_SMELL
+M
+java:S1116"Remove this empty statement.(Ëâ×şÿÿÿÿH“WRMINORZ
+CODE_SMELL
+M
+java:S1116"Remove this empty statement.(éå¸ÿÿÿÿÿH”WRMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(µ›H•WRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(èÒâøÿÿÿÿH–WRMAJORZ
+CODE_SMELL

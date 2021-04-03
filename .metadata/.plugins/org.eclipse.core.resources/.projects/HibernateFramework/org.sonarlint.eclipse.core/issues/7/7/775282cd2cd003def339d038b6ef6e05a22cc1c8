@@ -1,0 +1,9 @@
+
+Y
+java:S1874"-Remove this use of "Query"; it is deprecated.(…îìáH’\RMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿH“\RMAJORZ
+CODE_SMELL
+[
+java:S3740"/Provide the parametrized type for this generic.(…îìáH”\RMAJORZ
+CODE_SMELL

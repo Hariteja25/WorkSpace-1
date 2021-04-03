@@ -1,0 +1,14 @@
+
+j
+java:S1128"9Remove this unused import 'javax.persistence.NamedQuery'.(¢Þ‚ÇþÿÿÿÿHÏXRMINORZ
+CODE_SMELL
+J
+java:S1128	"Remove this duplicated import.(þ¹ÞÜHÍXRMINORZ
+CODE_SMELL
+l
+java:S1128
+";Remove this unused import 'javax.persistence.NamedQueries'.(òøÄÔÿÿÿÿÿHÐXRMINORZ
+CODE_SMELL
+b
+java:S1128"7Remove this unused import 'javax.annotation.Generated'.(­¦êQHÎXRMINORZ
+CODE_SMELL

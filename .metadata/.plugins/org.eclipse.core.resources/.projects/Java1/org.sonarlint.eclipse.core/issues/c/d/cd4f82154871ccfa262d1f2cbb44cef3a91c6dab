@@ -1,0 +1,13 @@
+
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«ðÛüÿÿÿÿÿHÐSRMINORZ
+CODE_SMELL
+T
+java:S1604"(Make this anonymous inner class a lambda(Ñö¥ÚHÑSRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ùõá€HÒSRMAJORZ
+CODE_SMELL
+]
+java:S1602",Remove useless curly braces around statement(ˆãÐžûÿÿÿÿHÓSRMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ˆãÐžûÿÿÿÿHÔSRMAJORZ
+CODE_SMELL

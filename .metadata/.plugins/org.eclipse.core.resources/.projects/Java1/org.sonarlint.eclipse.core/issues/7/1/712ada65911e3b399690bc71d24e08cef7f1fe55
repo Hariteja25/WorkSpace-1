@@ -1,0 +1,31 @@
+
+`
+java:S3740"/Provide the parametrized type for this generic.(—ÉýöýÿÿÿÿHÛRRMAJORZ
+CODE_SMELL
+`
+java:S3740"/Provide the parametrized type for this generic.(”ê¼ÝûÿÿÿÿHÜRRMAJORZ
+CODE_SMELL
+g	java:S125"<This block of commented-out lines of code should be removed.(°ßôÒHÝRRMAJORZ
+CODE_SMELL
+ª
+java:S1130"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(•ÃÔÿÿÿÿÿHßRRMINORZ
+CODE_SMELL
+i
+java:S1197"8Move the array designator from the variable to the type.(•ÃÔÿÿÿÿÿHàRRMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ÐÐ³åÿÿÿÿÿHáRRMAJORZ
+CODE_SMELL
+l
+java:S2133"@Remove this object instantiation and use "Person.class" instead.(°ßôÒHâRRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(¯âÚðHãRRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(‘ÑòúÿÿÿÿHäRRMAJORZ
+CODE_SMELL
+r
+java:S2133"ARemove this object instantiation and use "Student.class" instead.(Ï†ÄÀùÿÿÿÿHåRRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(¥‚ëHæRRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(«…ý¶HçRRMAJORZ
+CODE_SMELL

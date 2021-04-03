@@ -1,0 +1,8 @@
+
+
+java:S1104"NMake id a static final constant or non-public and provide accessors if needed.(õ¢×ùÿÿÿÿHõRRMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(éĞñªHöRRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(”úÑH÷RRMAJORZ
+CODE_SMELL

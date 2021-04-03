@@ -1,0 +1,12 @@
+
+O
+java:S1128"Remove this duplicated import.(òøÄÔÿÿÿÿÿHÈXRMINORZ
+CODE_SMELL
+}	java:S116""MRename this field "Id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬µä›þÿÿÿÿHËXRMINORZ
+CODE_SMELL
+b
+java:S1128"7Remove this unused import 'javax.annotation.Generated'.(­¦êQHÊXRMINORZ
+CODE_SMELL
+O
+java:S1128"Remove this duplicated import.(¢Þ‚ÇþÿÿÿÿHÉXRMINORZ
+CODE_SMELL

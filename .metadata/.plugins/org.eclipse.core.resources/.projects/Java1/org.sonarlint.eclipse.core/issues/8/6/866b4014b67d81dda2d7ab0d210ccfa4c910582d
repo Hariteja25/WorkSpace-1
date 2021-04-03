@@ -1,0 +1,16 @@
+
+i	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿHäURMAJORZ
+CODE_SMELL
+j
+java:S2259"@A "NullPointerException" could be thrown; "fw" is nullable here.(’™à€üÿÿÿÿHßURMAJORZBUG
+r
+java:S1075	"ARefactor your code to get this URI from a customizable parameter.(²õ¶ùÿÿÿÿHãURMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(×ãÎÛHçURMAJORZ
+CODE_SMELL
+^
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿHåURCRITICALZ
+CODE_SMELL
+i
+java:S1197"8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿHâURMINORZ
+CODE_SMELL

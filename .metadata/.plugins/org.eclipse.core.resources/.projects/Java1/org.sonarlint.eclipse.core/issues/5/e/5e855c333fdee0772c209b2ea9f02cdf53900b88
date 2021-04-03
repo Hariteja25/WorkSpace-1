@@ -1,0 +1,13 @@
+
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ƒŸ€³ÿÿÿÿÿHÏURMAJORZ
+CODE_SMELL
+^
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿHÍURCRITICALZ
+CODE_SMELL
+r
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¸ÇˆùÿÿÿÿHËURMINORZ
+CODE_SMELL
+k
+java:S2259"AA "NullPointerException" could be thrown; "fos" is nullable here.(æŒÕ®ùÿÿÿÿHÈURMAJORZBUG
+d	java:S106"9Replace this use of System.out or System.err by a logger.(‰ñÖ²HÌURMAJORZ
+CODE_SMELL

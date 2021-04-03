@@ -1,0 +1,9 @@
+
+`
+java:S3740"/Provide the parametrized type for this generic.(Žƒ¶ŽûÿÿÿÿH‡\RMAJORZ
+CODE_SMELL
+^
+java:S1874"-Remove this use of "Query"; it is deprecated.(Žƒ¶ŽûÿÿÿÿHˆ\RMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(«‹ÎõH‰\RMAJORZ
+CODE_SMELL

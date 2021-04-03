@@ -1,0 +1,14 @@
+
+[
+java:S3740"/Provide the parametrized type for this generic.(ßâøßH•\RMAJORZ
+CODE_SMELL
+\
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±ÄøÿÿÿÿH–\RMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ÑûàıÿÿÿÿH—\RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(°ÌŠşÿÿÿÿH˜\RMAJORZ
+CODE_SMELL
+Y
+java:S1874"-Remove this use of "Query"; it is deprecated.(ßâøßH™\RMINORZ
+CODE_SMELL

@@ -1,0 +1,10 @@
+
+w
+java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(¤Š¢¨HºXRBLOCKERZBUG
+u
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ÚÃ®µH»XRBLOCKERZBUG
+i
+java:S1197"8Move the array designator from the variable to the type.(ùï¾ŽÿÿÿÿÿH¼XRMINORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(ùø¼H½XRMAJORZ
+CODE_SMELL

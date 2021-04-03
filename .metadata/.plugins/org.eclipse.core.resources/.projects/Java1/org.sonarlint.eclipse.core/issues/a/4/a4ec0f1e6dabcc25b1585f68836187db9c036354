@@ -1,0 +1,18 @@
+
+­
+java:S2681"|This line will not be executed in a loop; only the first line of this 2-line block will be. The rest will execute only once.(¯õâÇùÿÿÿÿHÛURMAJORZ
+CODE_SMELL
+~
+java:S3973
+"JUse indentation to denote the code conditionally executed by this "while".(µõ¥‡øÿÿÿÿHØURCRITICALZ
+CODE_SMELL
+t
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ÕÇƒ—øÿÿÿÿHÚURBLOCKERZBUG
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÃ§åşÿÿÿÿHŞURMAJORZ
+CODE_SMELL
+r
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(²õ¶ùÿÿÿÿHİURMINORZ
+CODE_SMELL
+i
+java:S1197"8Move the array designator from the variable to the type.(ùï¾ÿÿÿÿÿHÜURMINORZ
+CODE_SMELL

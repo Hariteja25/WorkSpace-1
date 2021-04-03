@@ -1,0 +1,27 @@
+
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«ğÛüÿÿÿÿÿHTRMINORZ
+CODE_SMELL
+T
+java:S1604"(Make this anonymous inner class a lambda(š¢ğÀH‚TRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(Œ±İœıÿÿÿÿHƒTRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(öãÚØÿÿÿÿÿH„TRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(¤õóæH…TRMAJORZ
+CODE_SMELL
+„
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(¥‡ñÄûÿÿÿÿH†TRMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(‚¨Ö§H‡TRMAJORZ
+CODE_SMELL
+„
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(Ñ±ºëûÿÿÿÿHˆTRMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(µ®¶¼H‰TRMAJORZ
+CODE_SMELL
+
+java:S1602""SRemove useless curly braces around statement and then remove useless return keyword(ï²üõHŠTRMINORZ
+CODE_SMELL
+i	java:S106$"9Replace this use of System.out or System.err by a logger.(¦îİüÿÿÿÿH‹TRMAJORZ
+CODE_SMELL

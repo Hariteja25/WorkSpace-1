@@ -1,0 +1,28 @@
+
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›¨ª¾HÙVRMINORZ
+CODE_SMELL
+\
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ1HÚVRMINORZ
+CODE_SMELL
+‘
+java:S1149	"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ùñ ÑHÛVRMAJORZ
+CODE_SMELL
+…
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ùñ ÑHÜVRMINORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(‘¿ÿHİVRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ÊÇîÄHŞVRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(»›¬üÿÿÿÿHßVRMAJORZ
+CODE_SMELL
+c	java:S106$"9Replace this use of System.out or System.err by a logger.(…¬§GHàVRMAJORZ
+CODE_SMELL
+i	java:S106'"9Replace this use of System.out or System.err by a logger.(òÀ¥ıÿÿÿÿHáVRMAJORZ
+CODE_SMELL
+i	java:S106,"9Replace this use of System.out or System.err by a logger.(øÆ¥ŞÿÿÿÿÿHâVRMAJORZ
+CODE_SMELL
+i	java:S106."9Replace this use of System.out or System.err by a logger.(´õøÓüÿÿÿÿHãVRMAJORZ
+CODE_SMELL
+i	java:S1060"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿHäVRMAJORZ
+CODE_SMELL

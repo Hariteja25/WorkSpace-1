@@ -1,0 +1,29 @@
+
+}
+java:S1192"IDefine a constant instead of duplicating this literal "rService" 4 times.(Şñ»áşÿÿÿÿHÚ_RCRITICALZ
+CODE_SMELL
+}
+java:S1192"IDefine a constant instead of duplicating this literal "uService" 4 times.(„‡æÛûÿÿÿÿHß_RCRITICALZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïªş–ıÿÿÿÿHä_RMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ÒØÖşüÿÿÿÿHå_RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ÍÜñıÿÿÿÿHæ_RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ü¤á¹ùÿÿÿÿHç_RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(™»ª¥ûÿÿÿÿHè_RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(„ÿ¦ÛHé_RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ûÊıÄüÿÿÿÿHê_RMAJORZ
+CODE_SMELL
+i	java:S106 "9Replace this use of System.out or System.err by a logger.(ÚÕöúüÿÿÿÿHë_RMAJORZ
+CODE_SMELL
+i	java:S106!"9Replace this use of System.out or System.err by a logger.(ê¸¶¢ùÿÿÿÿHì_RMAJORZ
+CODE_SMELL
+i	java:S106""9Replace this use of System.out or System.err by a logger.(çá‰øÿÿÿÿHí_RMAJORZ
+CODE_SMELL
+d	java:S106#"9Replace this use of System.out or System.err by a logger.(êÄì™Hî_RMAJORZ
+CODE_SMELL

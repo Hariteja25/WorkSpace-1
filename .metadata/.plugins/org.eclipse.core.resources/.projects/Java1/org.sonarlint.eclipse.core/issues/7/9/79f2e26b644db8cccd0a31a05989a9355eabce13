@@ -1,0 +1,16 @@
+
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›¨ª¾H¾VRMINORZ
+CODE_SMELL
+\
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒH¿VRMINORZ
+CODE_SMELL
+–
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(éï—øùÿÿÿÿHÀVRMAJORZ
+CODE_SMELL
+Š
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(éï—øùÿÿÿÿHÁVRMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(¥¿·þøÿÿÿÿHÂVRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(†™ñ‹HÃVRMAJORZ
+CODE_SMELL

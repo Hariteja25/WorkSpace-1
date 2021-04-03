@@ -1,0 +1,22 @@
+
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÍÏ¦çùÿÿÿÿHÛTRMINORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(­î‹’ıÿÿÿÿHÜTRMAJORZ
+CODE_SMELL
+Š
+java:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(­î‹’ıÿÿÿÿHãTRMINORZ
+CODE_SMELL
+i	java:S1060"9Replace this use of System.out or System.err by a logger.(ÓÒ°ÖøÿÿÿÿHäTRMAJORZ
+CODE_SMELL
+]
+java:S16121",Replace this lambda with a method reference.(‚•°ÂûÿÿÿÿHåTRMINORZ
+CODE_SMELL
+i	java:S1061"9Replace this use of System.out or System.err by a logger.(‚•°ÂûÿÿÿÿHæTRMAJORZ
+CODE_SMELL
+i	java:S1063"9Replace this use of System.out or System.err by a logger.(şüì¦ıÿÿÿÿHçTRMAJORZ
+CODE_SMELL
+W
+java:S1612;",Replace this lambda with a method reference.(¤âHèTRMINORZ
+CODE_SMELL
+c	java:S106;"9Replace this use of System.out or System.err by a logger.(¤âHéTRMAJORZ
+CODE_SMELL

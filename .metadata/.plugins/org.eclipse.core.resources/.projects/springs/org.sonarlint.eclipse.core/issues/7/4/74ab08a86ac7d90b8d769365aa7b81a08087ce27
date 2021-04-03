@@ -1,0 +1,13 @@
+
+l
+java:S1854"@Remove this useless assignment to local variable "application1".(íúˆßHª`RMAJORZ
+CODE_SMELL
+i
+java:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿH«`RMINORZ
+CODE_SMELL
+Z
+java:S1905".Remove this unnecessary cast to "Application".(íúˆßH¬`RMINORZ
+CODE_SMELL
+]
+java:S1481"1Remove this unused "application1" local variable.(íúˆßH­`RMINORZ
+CODE_SMELL

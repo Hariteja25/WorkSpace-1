@@ -1,0 +1,25 @@
+
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›¨ª¾HÎVRMINORZ
+CODE_SMELL
+\
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒHÏVRMINORZ
+CODE_SMELL
+Š
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÅıöëûÿÿÿÿHĞVRMINORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(‘¿ÿHÑVRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ÊÇîÄHÒVRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(»›¬üÿÿÿÿHÓVRMAJORZ
+CODE_SMELL
+c	java:S106$"9Replace this use of System.out or System.err by a logger.(…¬§GHÔVRMAJORZ
+CODE_SMELL
+i	java:S106'"9Replace this use of System.out or System.err by a logger.(òÀ¥ıÿÿÿÿHÕVRMAJORZ
+CODE_SMELL
+i	java:S106,"9Replace this use of System.out or System.err by a logger.(øÆ¥ŞÿÿÿÿÿHÖVRMAJORZ
+CODE_SMELL
+i	java:S106."9Replace this use of System.out or System.err by a logger.(´õøÓüÿÿÿÿH×VRMAJORZ
+CODE_SMELL
+i	java:S1060"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿHØVRMAJORZ
+CODE_SMELL

@@ -1,0 +1,33 @@
+
+l	java:S1254"<This block of commented-out lines of code should be removed.(”ßàÎùÿÿÿÿHìWRMAJORZ
+CODE_SMELL
+o
+java:S2175+"JA "Map<Employee, Project>" cannot contain a "String" in a "Employee" type.(‘¨À¶HæWRMAJORZBUG
+i	java:S106&"9Replace this use of System.out or System.err by a logger.(ûëş±üÿÿÿÿHãWRMAJORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(ÛÅ®ÍùÿÿÿÿHáWRMAJORZ
+CODE_SMELL
+i	java:S106*"9Replace this use of System.out or System.err by a logger.(…¸¬“úÿÿÿÿHçWRMAJORZ
+CODE_SMELL
+d	java:S106)"9Replace this use of System.out or System.err by a logger.(¡ÏçÙHåWRMAJORZ
+CODE_SMELL
+d	java:S1063"9Replace this use of System.out or System.err by a logger.(£”€¸HêWRMAJORZ
+CODE_SMELL
+t
+java:S21754"JA "Map<Employee, Project>" cannot contain a "String" in a "Employee" type.(”ßàÎùÿÿÿÿHëWRMAJORZBUG
+i	java:S106/"9Replace this use of System.out or System.err by a logger.(ŒÌÖ’ÿÿÿÿÿHéWRMAJORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×“îêHàWRMINORZ
+CODE_SMELL
+d	java:S106@"9Replace this use of System.out or System.err by a logger.(’¢ÆàHïWRMAJORZ
+CODE_SMELL
+d	java:S106'"9Replace this use of System.out or System.err by a logger.(˜»ÂHâWRMAJORZ
+CODE_SMELL
+i	java:S1068"9Replace this use of System.out or System.err by a logger.(ŒÌÖ’ÿÿÿÿÿHíWRMAJORZ
+CODE_SMELL
+d	java:S106;"9Replace this use of System.out or System.err by a logger.(´ôÜÎHîWRMAJORZ
+CODE_SMELL
+d	java:S106+"9Replace this use of System.out or System.err by a logger.(‘¨À¶HäWRMAJORZ
+CODE_SMELL
+t
+java:S2175*"JA "Map<Employee, Project>" cannot contain a "String" in a "Employee" type.(…¸¬“úÿÿÿÿHèWRMAJORZBUG
